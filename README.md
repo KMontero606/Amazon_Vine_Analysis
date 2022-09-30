@@ -30,4 +30,4 @@ In this project, approximately 1600 datasets were reviewed and the reviews analy
 ## Summary: 
 Considering there were no Vine reviewers who left a 5-star review, a negative bias occurred. Only non-Vine reviewers left 5-star reviews at 37%. With this in mind, there does not seem to be positivity bias for reviews in the Vine program for the digital video game category. Also, there were ~1600 total reviews which is 63% who may have unfavorable reviews.
 
-One additional analysis that can be done with the given dataset would be 
+One additional analysis that can be done with the given dataset would be NLP analysis analysing the context of the reviews itself to ascertain the positive and negative reviews. There may be positive bias reviews within eventhough the rating system conflicts with the written reviews.
